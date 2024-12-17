@@ -1,2 +1,2 @@
 This is my Git Ex repo
-some changes made
+another change made
