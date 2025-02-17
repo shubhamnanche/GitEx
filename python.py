@@ -39,6 +39,7 @@ class Solution:
                 sum -= value
 
         backtrack(0, [], 0)
+        print("res", res)
         return res
 
 
@@ -46,4 +47,4 @@ sol = Solution()
 arr = [1, 2, 3, -2, 0, 2, 4, 5, 1, -3, 7]
 arr.sort()
 print(arr)
-print(sol.fourSum(arr, 11))
+print(sol.fourSum(arr, 2))
