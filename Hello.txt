@@ -1,3 +1,2 @@
 Hello, world!
 A new change.
-some more changes.
